@@ -118,7 +118,7 @@ For deployment, you can use the AWS managed policy `PowerUserAccess` or create a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/CloudinitFrance/iam-activity-tracker
+git clone https://github.com/TocConsulting/iam-activity-tracker
 cd iam-activity-tracker
 ```
 
