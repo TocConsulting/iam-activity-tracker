@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/iam-activity-tracker-logo.png" alt="IAM Activity Tracker Logo" width="600">
+</p>
+
 # IAM Activity Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
