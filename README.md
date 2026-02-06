@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/iam-activity-tracker-logo.png" alt="IAM Activity Tracker Logo" width="600">
+  <img src="assets/iam-activity-tracker-logo.png" alt="IAM Activity Tracker Logo" style="max-width: 100%; height: auto;">
 </p>
 
 # IAM Activity Tracker
